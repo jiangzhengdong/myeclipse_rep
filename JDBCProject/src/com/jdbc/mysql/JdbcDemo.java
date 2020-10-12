@@ -13,7 +13,7 @@ public class JdbcDemo {
 	public final static String PASSWORD="1qaz@WSX";
 	public final static String QUERY_USER="select * from user";
 	public final static String ADD_USER="insert into user(username,userage,password,compaddress) values('ls',25,'Pass@word','gsyh')";
-	
+	  
 	private Connection connection;
 	private Statement createStatement;
 	private ResultSet executeQuery; 

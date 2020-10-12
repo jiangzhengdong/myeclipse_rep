@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
+//git
 public class JdbcDemo {
 	public final static String CONN_URL="jdbc:mysql://localhost:3306/hibernate";
 	public final static String USER="root";
